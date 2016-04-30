@@ -1,7 +1,7 @@
 </br>
 <p align="center"><img src="docs/images/wolf.png" width="400" align="center"></p>
 </br>
-<h3 align="center">Fenris: a quadruped robot</h3>
+<h3 align="center">Proteus: a quadruped robot</h3>
 </br>
 
 
